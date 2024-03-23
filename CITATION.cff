@@ -1,0 +1,49 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  EnronSR: A Benchmark for Evaluating AI-Generated Email Replies
+message: >-
+  If you use code in this repository or the associated
+  benchmark dataset, please cite our ICWSM paper.
+type: software
+authors:
+  - given-names: Moran
+    family-names: Shay
+    email: shaymora@post.bgu.ac.il
+  - given-names: Roei
+    family-names: Davidson
+    email: roei@com.haifa.ac.il
+    affiliation: Haifa University
+    orcid: 'https://orcid.org/0000-0002-2038-7455'
+  - given-names: Nir
+    family-names: Grinberg
+    email: nirgrn@bgu.ac.il
+    affiliation: Ben-Gurion University
+    orcid: 'https://orcid.org/0000-0002-1277-894X'
+repository-artifact: 'https://doi.org/10.7910/DVN/RQBWAC'
+license: CC-BY-NC-SA-4.0
+preferred-citation:
+  type: conference-paper
+  authors:
+    - given-names: Moran
+      family-names: Shay
+      email: shaymora@post.bgu.ac.il
+    - given-names: Roei
+      family-names: Davidson
+      email: roei@com.haifa.ac.il
+      affiliation: Haifa University
+      orcid: 'https://orcid.org/0000-0002-2038-7455'
+    - given-names: Nir
+      family-names: Grinberg
+      email: nirgrn@bgu.ac.il
+      affiliation: Ben-Gurion University
+      orcid: 'https://orcid.org/0000-0002-1277-894X'
+  title: "EnronSR: A Benchmark for Evaluating AI-Generated Email Replies"
+  month: 6
+  collection-title: "Proceedings of the Eighteenth International AAAI Conference on Web and Social Media (ICWSM)"
+  collection-type: proceedings
+  conference:
+    name: "International Conference on Web and Social Media (ICWSM) 2024"
+  year: 2024
